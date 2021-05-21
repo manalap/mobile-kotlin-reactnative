@@ -1,0 +1,2 @@
+rootProject.name='Build fuild UI with Layout Editor'
+include ':app'

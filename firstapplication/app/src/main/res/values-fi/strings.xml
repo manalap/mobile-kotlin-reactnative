@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eka Sovellus</string>
+    <string name="button_text">Paina nappia</string>
+    <string name="hello_text">Terve Maailma!</string>
+    <string name="clicked_text">Nappi on painettu!</string>
+</resources>
